@@ -1,0 +1,52 @@
+Age;Income;Student;Credit_rating;Class (buy_computer)
+<= 30;High;No;Fair;No
+<= 30;High;No;Excellent;No
+31..40;High;No;Fair;Yes
+> 40;Medium;No;Fair;Yes
+> 40;Low;Yes;Fair;Yes
+> 40;Low;Yes;Excellent;No
+31..40;Low;Yes;Excellent;Yes
+<= 30;Medium;No;Fair;No
+<= 30;Low;Yes;Fair;No
+> 40;Medium;Yes;Fair;Yes
+<= 30;Medium;Yes;Excellent;Yes
+31..40;Medium;No;Excellent;Yes
+31..40;High;Yes;Fair;No
+> 40;Medium;No;Excellent;Yes
+<= 30;Medium;No;Fair;No
+<= 30;Low;Yes;Fair;No
+<= 30;Medium;No;Fair;Yes
+<= 30;Low;Yes;Fair;Yes
+<= 30;Medium;No;Fair;Yes
+<= 30;Low;Yes;Fair;No
+<= 30;Medium;No;Fair;Yes
+<= 30;Low;Yes;Fair;No
+> 40;Medium;Yes;Fair;No
+<= 30;Medium;Yes;Excellent;Yes
+31..40;Medium;No;Excellent;Yes
+<= 30;High;No;Excellent;Yes
+31..40;High;No;Fair;No
+> 40;Medium;No;Fair;Yes
+> 40;Low;Yes;Fair;No
+> 40;Low;Yes;Excellent;No
+31..40;Low;Yes;Excellent;Yes
+<= 30;High;No;Fair;Yes
+31..40;Medium;No;Fair;Yes
+> 40;Low;No;Fair;No
+> 40;Low;Yes;Excellent;Yes
+> 40;Low;Yes;Excellent;No
+31..40;Low;Yes;Excellent;Yes
+<= 30;High;No;Excellent;No
+31..40;High;No;Fair;Yes
+> 40;Medium;No;Fair;Yes
+> 40;Low;Yes;Fair;Yes
+> 40;Low;Yes;Fair;No
+31..40;Low;Yes;Fair;Yes
+31..40;Low;Yes;Excellent;No
+<= 30;High;No;Excellent;No
+<= 30;Medium;Yes;Excellent;Yes
+> 40;Low;Yes;Fair;Yes
+<= 30;Low;Yes;Fair;Yes
+31..40;Medium;No;Fair;No
+31..40;High;Yes;Excellent;Yes
+> 40;Medium;No;Excellent;No
